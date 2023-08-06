@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "RealEstateToken"
+keywords: 
+  - Solidity
+  - Ethereum
+  - Smart Contract
+  - Blockchain
+version: 0.0.1
+date-released: 2023-07-01
+repository-code: "https://github.com/block-foundation/solidity-real-estate-token"
+url: "https://github.com/block-foundation/solidity-real-estate-token"
+# doi: "10.5281/zenodo.XXXXXXX"
+license: "Apache-2.0"
+license-url: "https://www.apache.org/licenses/LICENSE-2.0"
+message: >-
+  If you use this software, please cite it using
+  the metadata from this file.
+type: software
+authors:
+  - given-names: Lars Bastiaan
+    family-names: van Vianen
+    email: lars@blockfoundation.io
+    affiliation: Block Foundation
+    orcid: "https://orcid.org/0000-0002-8790-8630"
