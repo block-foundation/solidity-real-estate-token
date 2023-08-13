@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-vscode-remote.remote-containers",
+        "dbaeumer.vscode-eslint", 
+        "ms-vscode.vscode-typescript-tslint-plugin", 
+        "esbenp.prettier-vscode", 
+        "JuanBlanco.solidity"
+    ],
+    "unwantedRecommendations": []
+}
